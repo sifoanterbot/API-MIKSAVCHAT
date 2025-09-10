@@ -1,0 +1,9 @@
+{
+  "apiUrl": "https://antermod-10016848.chipp.ai/api/chat",
+  "headers": {
+    "accept": "*/*",
+    "content-type": "application/json",
+    "user-agent": "Mozilla/5.0 GoatBot Integration",
+    "Referer": "https://antermod-10016848.chipp.ai/w/chat/"
+  }
+}
